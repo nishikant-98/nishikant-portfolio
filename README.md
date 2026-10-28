@@ -84,8 +84,7 @@ I'm always interested in connecting with engineers, recruiters, and technology p
 * **GitHub:** [nishikant-98](https://github.com/nishikant-98)
 * **Portfolio:** [nishikant-98.github.io/nishikant-portfolio](https://nishikant-98.github.io/nishikant-portfolio/)
 * **Email:** [iamnishikant802@gmail.com](mailto:iamnishikant802@gmail.com)
-* **LinkedIn:** Add your LinkedIn profile URL here.
-
+* **LinkedIn:** linkedin.com/in/nishikant-mishra-769454209
 ---
 
 ### 💡 My Engineering Philosophy
