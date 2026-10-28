@@ -1,32 +1,95 @@
-# Nishikant Mishra — DevOps, Cloud & AI Engineer Portfolio
+# 👋 Hi, I'm Nishikant Mishra
 
-A responsive static portfolio website built with HTML, CSS, and vanilla JavaScript. It uses a premium dark theme with a clean, recruiter-friendly layout.
+### DevOps Engineer | Cloud Engineer | Platform Engineering Enthusiast
 
-## Preview locally
-1. Extract the ZIP.
-2. Open `index.html` in a browser. For best results, use VS Code with the Live Server extension.
+Welcome to my portfolio repository! 🚀
 
-## Before publishing
-- Replace the sample project descriptions with your real project details and direct repository URLs.
-- Add your LinkedIn profile URL in `index.html`.
-- Put your latest, verified resume in this folder and name it `resume.pdf`. The hero's View Resume button links to that file.
-- Review every skill and experience statement for accuracy. This starter intentionally avoids claiming specific employer dates or unverified metrics.
-- Add project-specific README files and screenshots to GitHub where possible.
+I'm a DevOps and Cloud Engineer passionate about cloud infrastructure, automation, CI/CD pipelines, container orchestration, infrastructure as code, and reliable platform engineering.
 
-## Deploy with GitHub Pages
-1. Create a new GitHub repository, e.g. `nishikant-portfolio`.
-2. Upload all files from this folder to the repository root (not the ZIP itself).
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch `main` and folder `/ (root)`, then save.
-6. Wait for the deployment to finish. Your site URL will usually be `https://YOUR-USERNAME.github.io/nishikant-portfolio/`.
-7. To use a personal root domain, create a repository named `YOUR-USERNAME.github.io` and follow the GitHub Pages instructions.
+My goal is to help engineering teams build secure, scalable, and maintainable infrastructure while improving deployment efficiency and operational reliability.
 
-## Alternative: Vercel
-Import the GitHub repository into Vercel and deploy as a static site. No build command is required; use the project root as the output directory.
+🌐 **Portfolio Website:** [Visit My Portfolio](https://nishikant-98.github.io/nishikant-portfolio/)
 
-## Files
-- `index.html` — content and structure
-- `styles.css` — responsive visual design
-- `script.js` — mobile navigation and dynamic copyright year
-- `resume.pdf` — add your own resume here before publishing
+---
+
+## 👨‍💻 About Me
+
+* ☁️ Interested in cloud infrastructure and modern platform engineering.
+* ⚙️ Focused on infrastructure automation and CI/CD.
+* 🐳 Working with containerization and Kubernetes technologies.
+* 🔐 Interested in DevSecOps, cloud security, and secure delivery pipelines.
+* 📊 Exploring monitoring, observability, and production troubleshooting.
+* 🤖 Expanding my knowledge of Azure AI and AI application infrastructure.
+* 🌍 Open to DevOps, Cloud, SRE, and Platform Engineering opportunities.
+
+---
+
+## 🛠️ Technical Skills
+
+| Category                   | Technologies                                        |
+| -------------------------- | --------------------------------------------------- |
+| Cloud Platforms            | AWS, Microsoft Azure, GCP fundamentals              |
+| Infrastructure as Code     | Terraform, Bicep, ARM Templates, CloudFormation     |
+| Containers & Orchestration | Docker, Kubernetes, Helm                            |
+| CI/CD                      | GitHub Actions, Azure DevOps, Jenkins, GitLab CI/CD |
+| GitOps & Deployment        | Argo CD                                             |
+| Configuration Management   | Ansible                                             |
+| Monitoring & Observability | Prometheus, Grafana, ELK Stack, CloudWatch          |
+| DevSecOps                  | SonarQube, Trivy, Gitleaks                          |
+| Scripting                  | Bash, Shell, Python, PowerShell                     |
+| AI & Cloud                 | Azure AI and Generative AI infrastructure concepts  |
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Cloud Infrastructure Automation
+
+**Technologies:** Terraform, Cloud Platforms, Infrastructure as Code
+
+Exploring reusable infrastructure patterns, modular configurations, infrastructure provisioning, and state management.
+
+### 2. Kubernetes & CI/CD Automation
+
+**Technologies:** Docker, Kubernetes, Helm, CI/CD
+
+Exploring containerized application deployments, automated delivery workflows, and Kubernetes deployment practices.
+
+### 3. Monitoring & Observability
+
+**Technologies:** Prometheus, Grafana, Cloud Monitoring
+
+Exploring infrastructure metrics, dashboards, service health monitoring, and alerting strategies.
+
+> 📌 Visit my repositories for project source code, implementation details, and documentation. Project descriptions and links will be updated as the corresponding repositories are published.
+
+---
+
+## 🎯 Current Learning Focus
+
+* Azure Cloud and AI services
+* GitHub Actions and advanced CI/CD workflows
+* Kubernetes and cloud-native platforms
+* Terraform modules and infrastructure automation
+* DevSecOps and cloud security
+* Observability and production reliability
+* Python automation and AI application deployment
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with engineers, recruiters, and technology professionals.
+
+* **GitHub:** [nishikant-98](https://github.com/nishikant-98)
+* **Portfolio:** [nishikant-98.github.io/nishikant-portfolio](https://nishikant-98.github.io/nishikant-portfolio/)
+* **Email:** [iamnishikant802@gmail.com](mailto:iamnishikant802@gmail.com)
+* **LinkedIn:** Add your LinkedIn profile URL here.
+
+---
+
+### 💡 My Engineering Philosophy
+
+> Automate what can be automated. Build for reliability. Secure by design. Keep learning.
+
+Thanks for visiting my portfolio! ⭐
